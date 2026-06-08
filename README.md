@@ -5,7 +5,7 @@ An interactive, data-driven Business Intelligence solution built to evaluate the
 The platform features a dynamic frontend interface with bilingual support (Arabic/English) and integrates a live-embedded Power BI dashboard. By utilizing complex DAX computations and custom star-schema data modeling, it tracks over SAR 113 Billion in corporate revenues. It also features a dynamic forecasting engine (What-If simulations) that enables executives to stress-test future digital growth targets and compound annual growth rates dynamically.
 
 ## 🌐 Live Portfolio Showcase
-👉 **[View the Live Website & Interactive Dashboard](https://zesty-pothos-487471.netlify.app/)**
+👉 **[View the Live Website & Interactive Dashboard]([https://zesty-pothos-487471.netlify.app/](https://capable-queijadas-297747.netlify.app/))**
 
 ---
 
